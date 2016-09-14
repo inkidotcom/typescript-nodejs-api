@@ -1,0 +1,10 @@
+/build
+/node_modules
+/typings
+/.vscode/launch.json
+
+
+/public/*-icon-*.png
+/public/apple-icon.png
+/public/browserconfig.xml
+/public/manifest.json
